@@ -1,0 +1,37 @@
+
+main>.row>section>.row>div{
+    transition: 1s;
+}
+main>.row>section>.row>figure>figcaption{
+    transition: 1s;
+}
+main>.row>section>.row>figure>img{
+    transition: .4s;
+    filter: grayscale(1);
+}
+main>.row>section>.row>figure:hover>img{
+    filter: none;
+}
+main>.row>section>.row>figure{
+    &:hover{
+       >figcaption{
+            color:red;
+            text-shadow: 3px 3px 3px black;
+            font-weight: bold;
+
+        }
+    }
+}
+main>.row>section>.row>div:hover{
+    background-color: yellow;
+    color: blue;
+}
+main>.row>footer>div{
+    background-color: rgb(6, 6, 49);
+}
+main>.row>footer>div>div>ul:hover>li{
+    color: gold;
+}
+main>.row>footer>div>div:hover>h2{
+    color: gold;
+}
