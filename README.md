@@ -1,8 +1,6 @@
 # Project-boot
 
-![viewfinal]()
-
-![view final]()
+![view](https://github.com/samirasamaei/Project-boot/assets/156536932/c21f3bc6-a0bd-4b58-abca-46545d4c0dcb)
 
 - [Demo Project](https://samirasamaei.github.io/Project-boot/)
 
